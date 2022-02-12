@@ -1,8 +1,10 @@
 # Vim Installation & Usage
 
 ![screenshot: vim](screenshots/vim.png)
-NeoVim + Tmux with true colors on iTerm2.
-
+NeoVim + Tmux with true colors on iTerm2.  
+  
+**This is a Fork of onehalf which includes only the vim package**  
+  
 ## Installation
 ### Using a plugin manager (recommended)
 
